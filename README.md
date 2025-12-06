@@ -1,4 +1,4 @@
-# 🔐 Password Strength Checker with Optimization  
+# 🔐 Advanced Password Complexity Optimization Platform
 A rule-based system to evaluate and automatically improve weak passwords with minimal edits.
 
 ---
