@@ -1,0 +1,12 @@
+{
+  "name": "password-strength-checker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "concurrently \"npm --prefix backend start\" \"http-server frontend -p 8080 -c-1\""
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0",
+    "http-server": "^14.1.1"
+  }
+}
